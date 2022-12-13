@@ -15,9 +15,7 @@
       institution: Southern Methodist University, Dallas, TX
       year: 2022-2024
       description:
-        - title: Science - Specilization In Machine Learning
-          contents:
-            - Current GPA is 4.0
+        - Data Science - Specilization In Machine Learning (4.0 GPA)
 
     - title: Data Science & Machine Learning Career Path
       institution: Codecademy
@@ -31,7 +29,7 @@
       institution: Southern Methodist University, Dallas, TX
       year: 2014-2018
       description:
-        - title: Economics - Applications In Finance
+        - Economics - Applications In Finance
 
 - title: Experience
   type: time_table
