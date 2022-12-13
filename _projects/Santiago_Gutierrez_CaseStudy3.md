@@ -9,6 +9,7 @@ category: work
 
 [Link To RShiny App](https://santigtz95.shinyapps.io/DDSAnalyticsApp/)
 
-Kaggle Score From Predicted Prices: 0.139
 
-https:///santigtz95.github.io/assets/pdf/Vo&Santiago_STATProject.pdf
+[Click Here To View The Analysis](https:///santigtz95.github.io/assets/pdf/Vo&Santiago_STATProject.pdf)
+
+Kaggle Score From Predicted Home Sale Prices: 0.139
