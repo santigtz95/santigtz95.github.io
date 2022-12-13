@@ -18,7 +18,7 @@ category: work
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Rachel &amp; Santiago" />
+<meta name="author" content="Rachel Liercke &amp; Santiago Gutierrez" />
 
 <meta name="date" content="2022-10-21" />
 
