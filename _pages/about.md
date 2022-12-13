@@ -9,7 +9,7 @@ profile:
   image: Profile Pic
   image_circular: false # crops the image to make it circular
   address: >
-    <p> This is me in Cuernavaca, Mexico.     (My father's hometown) </p>
+    <p> This is me in Cuernavaca, Mexico (my father's hometown). </p>
     <p</p>
     <p></p>
 
@@ -19,5 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 My name is Santiago / Santi. I was born in Mexico City and moved to Texas at the age of three. I have been here ever since. I am a real estate developer and broker, as well as a private pilot. I am currently working to obtain a master's degree in data science at SMU.
+
+My hobbies include, but are not limited to, soccer, football, motorsports, watersports, and aviation. Artificial intelligence, cybersecurity, and computer science are also big interests of mine; and thus, my pursuit of a master's degree.
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/santiagogutierrezpumarejo/) page for additional information about me.
