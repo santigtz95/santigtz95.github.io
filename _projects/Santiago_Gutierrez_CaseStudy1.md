@@ -4,7 +4,7 @@ title: Oktoberfest EDA
 description: An analysis for Budweiser for the data they have collected on beers and breweries, including answers to specific questions.
 img: assets/img/BeerInspect.jpeg
 importance: 3
-category: work
+category: Work
 ---
 
 [Link To Video Presentation](https://www.youtube.com/watch?v=47FJX-wTjNc)

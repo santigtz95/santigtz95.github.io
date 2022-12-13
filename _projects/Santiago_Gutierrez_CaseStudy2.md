@@ -4,7 +4,7 @@ title: Attrition & Income
 description: An analysis about the primary factors that significantly influence attrition and annual income of employees within Fortune 100 companies.
 img: assets/img/AttritionIncome.jpeg
 importance: 2
-category: work
+category: Work
 ---
 
 [Link To Video Presentation](https://youtu.be/6QBNxQKyXUk)
