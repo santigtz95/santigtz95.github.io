@@ -9,7 +9,7 @@ profile:
   image: Profile Pic
   image_circular: false # crops the image to make it circular
   address: >
-    <p> This is me in Cuernavaca, MX </p>
+    <p> This is me in Cuernavaca, MX. </p>
     <p (My father's hometown)   </p>
     <p></p>
 
