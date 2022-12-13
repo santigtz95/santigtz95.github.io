@@ -9,8 +9,8 @@ profile:
   image: Profile Pic
   image_circular: false # crops the image to make it circular
   address: >
-    <p> This is me in Cuernavaca, MX. </p>
-    <p (My father's hometown)   </p>
+    <p> This is me in Cuernavaca, MX. (My father's hometown) </p>
+    <p</p>
     <p></p>
 
 news: true  # includes a list of news items
