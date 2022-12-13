@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: < Santiago Gutierrez Pumarejo /a>
+subtitle: < Santiago Gutiérrez Pumarejo /a>
 
 profile:
   align: right
   image: Profile Pic
   image_circular: false # crops the image to make it circular
   address: >
-    <p> This is me in Cuernavaca, Mexico. (My father's hometown) </p>
+    <p> This is me in Cuernavaca, Mexico. \n (My father's hometown) </p>
     <p</p>
     <p></p>
 
