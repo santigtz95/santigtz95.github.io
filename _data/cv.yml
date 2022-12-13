@@ -7,3 +7,23 @@
       value: 08 March, 1995
     - name: Languages
       value: English, Spanish, Italian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master's Degree
+      institution: Southern Methodist University, Dallas, TX
+      year: 2022-2024
+      description:
+        - Data Science - Specilization In Machine Learning (4.0 GPA)
+    - title: Data Science & Machine Learning Career Path
+      institution: Codecademy
+      year: 2022-Present
+    - title: Statistics & Probability
+      institution: Khan Academy
+      year: 2022-Present
+     - title: Bachelor's Degree
+      institution: Southern Methodist University, Dallas, TX
+      year: 2014-2018
+      description:
+        - Economics - Applications In Finance
