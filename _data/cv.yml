@@ -13,19 +13,20 @@
   contents:
     - title: Master's Degree
       institution: Southern Methodist University, Dallas, TX
-      year: 2022 - 2024
+      year: 2024
       description:
         - title: Data Science (4.0 GPA)
           contents: Specialization in Machine Learning
     - title: Data Science & Machine Learning Career Path
       institution: Codecademy
-      year: 2022 - 2024
+      year: 2024
     - title: Statistics & Probability
       institution: Khan Academy
       year: 2022
-     - title: Bachelor's Degree
+    - title: Bachelor's Degree
       institution: Southern Methodist University, Dallas, TX
-      year: 2014 - 2018
+      year: 2018
       description:
         - title: Economics
           contents: Applications In Finance
+
