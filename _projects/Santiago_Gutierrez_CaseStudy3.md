@@ -5,10 +5,9 @@ description: An analysis about the prediction models built for Century 21 Ames f
 img: assets/img/HousingPrices.jpeg
 importance: 1
 category: work
+CaseStudy3_pdf: assets/pdf/Vo&Santiago_STATProject.pdf
 ---
 
 Link To RShiny App: https://santigtz95.shinyapps.io/DDSAnalyticsApp/
 
 Kaggle Score From Predicted Prices: 0.139
-
-![ ](assets/img/Vo&Santiago_STATProject.png)
