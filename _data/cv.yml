@@ -18,12 +18,21 @@
         - title: Science - Specilization In Machine Learning
           contents:
             - Current GPA: 4.0
-    - title: Bachelor's Degree
+
+    - title: Data Science & Machine Learning Career Path
+      institution: Codecademy
+      year: 2022-Present
+
+    - title: Statistics & Probability
+      institution: Khan Academy
+      year: 2022-Present
+        
+     - title: Bachelor's Degree
       institution: Southern Methodist University, Dallas, TX
       year: 2014-2018
       description:
-        - title: Economics - Applications In Finance
-
+        - title: Economics - Applications In Finance       
+        
 - title: Experience
   type: time_table
   contents:
