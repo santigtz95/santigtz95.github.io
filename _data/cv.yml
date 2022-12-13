@@ -11,19 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master's Degree
+    - title: Master's Degree in Data Science
       institution: Southern Methodist University, Dallas, TX
       year: 2022 - 2024
       description:
-        - Data Science - Specilization In Machine Learning
+        - Specilization In Machine Learning
     - title: Data Science & Machine Learning Career Path
       institution: Codecademy
       year: 2022 - 2024
     - title: Statistics & Probability
       institution: Khan Academy
       year: 2022
-     - title: Bachelor's Degree
+     - title: Bachelor's Degree in Economics
       institution: Southern Methodist University, Dallas, TX
       year: 2014 - 2018
       description:
-        - Economics - Applications In Finance
+        - Applications In Finance
