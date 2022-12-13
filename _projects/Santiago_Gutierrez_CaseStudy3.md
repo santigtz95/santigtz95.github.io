@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Predicting Housing Prices
-description: As requested by Century 21 Ames, we have analyzed nearly 3,000 homes with about 80 categorical variables that describe residential homes in Ames, Iowa in order to build and test predictive models that allows us to estimate home prices.
+description: An analysis about the models built for Century 21 Ames for predicting home sales prices. The models are built on data collected for 3,000 homes with about 80 categorical variables that describe residential homes in Ames, Iowa.
 img: assets/img/HousingPrices.jpeg
 importance: 1
 category: work
