@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <</a>.
 
 profile:
   align: right
@@ -21,6 +21,5 @@ social: true  # includes social icons at the bottom of the page
 Hello! Welcome to my page. My name is Santiago / Santi. I was born in Mexico City and moved to Texas at the age of three. I have been here ever since. I am a real estate developer and broker, as well as a private pilot. I am currently working to obtain a master's degree in data science at SMU.
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
