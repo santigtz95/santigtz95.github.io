@@ -29,3 +29,16 @@
       description:
         - title: Economics
           contents: Applications In Finance
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Founder, Developer, & Pilot
+      institution: GTZ Capital
+      year: 2020 - Present
+      description:
+        - GTZ Capital is a personal LLC dedicated to real estate development and aviation services.
+        - Created, proposed, and currently working an ongoing 200-acre executive airport project in Boerne, TX.
+        - Assisted in the development of a multi-building (4.2-acre) medical/professional business park.
+        - Created, proposed, and initiated development for an 18-acre multi-family real estate project.
+        - Purchasing, transporting, repairing, leasing, and selling aircraft for profit.
