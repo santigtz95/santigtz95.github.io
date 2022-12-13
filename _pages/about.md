@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: < Santiago Gutiérrez Pumarejo /a>
+subtitle: Santiago Gutiérrez Pumarejo
 
 profile:
   align: right
