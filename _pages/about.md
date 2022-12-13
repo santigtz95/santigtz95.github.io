@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Santiago Gutiérrez Pumarejo
+subtitle: Welcome To My GitHub Page!
 
 profile:
   align: right
