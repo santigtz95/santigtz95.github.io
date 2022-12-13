@@ -8,6 +8,6 @@ category: work
 CaseStudy3_pdf: assets/pdf/Vo&Santiago_STATProject.pdf
 ---
 
-Link To RShiny App: https://santigtz95.shinyapps.io/DDSAnalyticsApp/
+[Link To RShiny App](https://santigtz95.shinyapps.io/DDSAnalyticsApp/)
 
 Kaggle Score From Predicted Prices: 0.139
