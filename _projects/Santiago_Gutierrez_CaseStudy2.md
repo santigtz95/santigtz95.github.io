@@ -7,6 +7,10 @@ importance: 2
 category: work
 ---
 
+Link To Video Presentation: https://youtu.be/6QBNxQKyXUk
+
+Link To RShiny App: https://santigtz95.shinyapps.io/DDSAnalyticsApp/
+
 <!DOCTYPE html>
 
 <html>
