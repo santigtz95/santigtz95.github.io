@@ -3,8 +3,8 @@ layout: page
 title: Menger Creek Plaza Development
 description: This is a confidential offering memorandum for a real estate project that I am developing out in "Booming Boerne" (Northside San Antonio, TX).
 img: assets/img/dominion_rendering.jpeg
-importance: 2
-category: School
+importance: 1
+category: Work
 ---
 
 [Link To Video Presentation](https://www.youtube.com/channel/UC0IK7goHLAzBrbpaO8Qxb9g)
