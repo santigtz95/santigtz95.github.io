@@ -6,7 +6,7 @@ subtitle: Welcome To My GitHub Page!
 
 profile:
   align: right
-  image: assets/img/Profile_Pic.jpeg
+  image: Profile_Pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> This is me in Cuernavaca, Mexico. </p>
