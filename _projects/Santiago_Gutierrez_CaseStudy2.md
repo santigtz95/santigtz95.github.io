@@ -3,8 +3,8 @@ layout: page
 title: Attrition & Income
 description: An analysis about the primary factors that significantly influence attrition and annual income of employees within Fortune 100 companies.
 img: assets/img/AttritionIncome.jpeg
-importance: 2
-category: Work
+importance: 3
+category: School
 ---
 
 [Link To Video Presentation](https://youtu.be/6QBNxQKyXUk)
@@ -24,7 +24,6 @@ category: Work
 
 <meta name="date" content="2022-12-07" />
 
-<title>DDSAnalytics - Attrition &amp; Income Analysis</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
